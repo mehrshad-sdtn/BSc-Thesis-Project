@@ -21,6 +21,6 @@ This method underperfomrs compared to the previous plain CNN method due to the l
 
 
 <br>
-###Generative Data Augmentation
+### Generative Data Augmentation
 
 
