@@ -17,7 +17,7 @@ this method is based on the work of [Aslan, Akin](http://193.140.240.104/xmlui/h
 This architecture consists of CNN followed by LSTM cells. inputs of the CNNs are spectrogram segments for one subject, which are fed to LSTM sequentially<br>
 This method underperfomrs compared to the previous plain CNN method due to the lack of sufficient training data.<br>
 <br>
-<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/edit/master" width="400" height="290"/>
+<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/lstmcnn.jpg" width="400" height="290"/>
 
 
 <br>
