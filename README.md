@@ -19,8 +19,6 @@ This method underperfomrs compared to the previous plain CNN method due to the l
 <br>
 <img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/lstmcnn.jpg" width="400" height="290"/>
 
-
-<br>
 ### Generative Data Augmentation
 
 
