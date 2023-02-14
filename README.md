@@ -23,10 +23,10 @@ This method underperfomrs compared to the previous plain CNN method due to the l
 Deep Generative Techniques have been used in order to augment the spectrogram dataset and obtain better results.
 
 ##### DCGAN architecture
-<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/dcgan.jpg" width="400" height="290"/>
+<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/dcgan.jpg" width="400" height="150"/>
 
 ##### Variational Autoencoder architecture
-<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/vae.jpg" width="400" height="290"/>
+<img src="https://github.com/mehrshad-sdtn/BSc-Thesis-Project/blob/master/resources/vae.jpg" width="400" height="150"/>
 The variational autoencoder achieved 0.5% accuracy improvement and 0.14 loss decrease.
 
 
