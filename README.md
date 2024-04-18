@@ -1,5 +1,6 @@
 # BSc-Thesis-Project
 #### A Deep Learning-Based Approach for Diagnosis of Schizophrenia using EEG brain recordings
+A paper has been published based on the results and approaches used in this work, the pre-print could be found here [arXiv pre-print](https://arxiv.org/pdf/2310.16867.pdf)
 ### Datasets
 A public dataset of SZ EEG recordings was utilized for this project <br>
 [Dataset](http://brain.bio.msu.ru/eeg_schizophrenia.htm), a 16 channel EEG recording dataset of 84 individuals (45 Schizophernic, 39 Healthy Control) <br>
